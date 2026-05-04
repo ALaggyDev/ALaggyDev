@@ -2,6 +2,8 @@
 
 I am Jimmy (a.k.a. Laggy). I am a coder and a CTF player, i.e. huge computer nerd :)
 
+Check out my blog: https://alaggydev.github.io/
+
 ## 🔭 About Me
 - Uncovered [TrackPack](https://alaggydev.github.io/posts/cytooxien/), a device fingerprinting exploit in Minecraft
 - I play CTFs, it's fun :)
