@@ -3,7 +3,8 @@
 I am Jimmy (a.k.a. Laggy). I am a computer nerd :)
 
 My Youtube channel: https://www.youtube.com/@LaggyMc123
-my Blog: https://alaggydev.github.io/
+
+My Blog: https://alaggydev.github.io/
 
 ## WebCoordsFinder (and CoordsFinder)
 
