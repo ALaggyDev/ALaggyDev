@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-I am Jimmy (a.k.a. Laggy). I am a coder and a CTF player, i.e. huge computer nerd :)
+I am Jimmy (a.k.a. Laggy). I am a computer nerd :)
 
-Check out my blog: https://alaggydev.github.io/
+My Youtube channel: https://www.youtube.com/@LaggyMc123
+my Blog: https://alaggydev.github.io/
+
+## WebCoordsFinder (and CoordsFinder)
+
+I created [WebCoordsFinder](https://coordsfinder.com), a website for fast texture rotation cracking in Minecraft! With WebCoordsFinder, anyone can find the coordinates of a base in a screenshot in less than 10 minutes!
+
+Go watch my video!
+- https://www.youtube.com/watch?v=gXTN9DD_Cp0
+- https://github.com/ALaggyDev/WebCoordsFinder
+- https://github.com/ALaggyDev/CoordsFinder
 
 ## 🔭 About Me
+- Created [WebCoordsFinder](https://coordsfinder.com)
 - Discovered 3 security vulnerabilities in TP-Link (China) home router firmware ([here](https://alaggydev.github.io/posts/hacking-tp-link-router-en/))
-- Discovered TrackPack, a device fingerprinting exploit in Minecraft ([here](https://alaggydev.github.io/posts/cytooxien/))
+- Uncovered TrackPack, a device fingerprinting exploit in Minecraft ([here](https://alaggydev.github.io/posts/cytooxien/))
 - Member of [flagaholic](https://www.flagaholic.xyz/) since 2025/11
-- I play CTFs, it's fun :)
-- Writing a kernel in Rust
-- Big Minecraft fan
+- A CTF player
+- A big Minecraft nerd
 
 ## 📫 How to reach me:
 Discord: `i_am_sheep`
