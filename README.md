@@ -19,7 +19,7 @@ Go watch my video!
 - Created [WebCoordsFinder](https://coordsfinder.com)
 - Discovered 3 security vulnerabilities in TP-Link (China) home router firmware ([here](https://alaggydev.github.io/posts/hacking-tp-link-router-en/))
 - Uncovered TrackPack, a device fingerprinting exploit in Minecraft ([here](https://alaggydev.github.io/posts/cytooxien/))
-- Member of [flagaholic](https://www.flagaholic.xyz/) since 2025/11
+- Member of [flagaholic](https://flagaholic.hk/) since 2025/11
 - A CTF player
 - A big Minecraft nerd
 
