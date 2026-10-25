@@ -26,6 +26,8 @@ Go watch my video!
 ## 📫 How to reach me:
 Discord: `i_am_sheep`
 
+Server: https://discord.gg/jSpsqjyXYM
+
 <!--
 **ALaggyDev/ALaggyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
